@@ -45,7 +45,6 @@ S - System<br/>
 
 
 
-```markdown
 # 화면구성
 ## 관리자 데스크톱
 ### 로그인 / 회원가입 / 개인정보 수정
@@ -98,9 +97,6 @@ S - System<br/>
 <img src="./image/고객주문확인.png" width="200" height="400">
 <img src="./image/고객주문완료.png" width="200" height="400">
 <img src="./image/고객명세서.png" width="200" height="400">
-```
-
-이렇게 깔끔하게 정리했습니다. 이제 image 폴더에 있는 파일명들과 매칭이 되도록 했습니다.
 
 
 
