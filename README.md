@@ -14,7 +14,7 @@ PM : 김건우 <br/>
 
 ## FrontEnd 개발자
 팀장 : 김호진<br/>
-팀원 : 배준재,옥준서,모정환<br/>
+팀원 : 배준재, 옥준서, 모정환<br/>
 
 ## BackEnd 개발자
 팀장 : 김재영, 류태웅(DB 팀장)<br/>
@@ -43,105 +43,89 @@ S - System<br/>
 - 데이터 기반 의사 결정: 주문 데이터 분석을 통해 메뉴 인기, 운영 패턴 등을 파악하여 데이터 기반 의사 결정을 지원
 - 환경 친화: 종이 영수증 발급 없이 모바일 기반 주문 및 결제 시스템으로 환경 보호에 기여
 
-
-
-
-## 프로젝트 화면 샘플
-
 # 화면구성
 
 ## 관리자 데스크톱
-### 로그인 / 회원가입
-![image](https://github.com/hojin535/ufo-front/assets/123153695/f8abcefb-07e9-42fb-bbd5-3d94f19948c7)
-![image](https://github.com/hojin535/ufo-front/assets/123153695/ec8bbd69-f74c-414b-a850-3f149feb3530)
+### 로그인 / 회원가입 / 개인정보 수정
+![관리자로그인](https://github.com/user-attachments/assets/078bffce-11ad-487c-b11c-f350ebab7a13)
+![관리자 개인정보 수정](https://github.com/user-attachments/assets/9d2f5282-1995-456a-8f0b-c2271188be0b)
 
 ### 주문 결제 관리
-![image](https://github.com/hojin535/ufo-front/assets/123153695/79039a7b-4532-4811-be7c-9c88d6cee45d)
+![관리자 메인 메뉴](https://github.com/user-attachments/assets/f5206947-a19e-467e-9b0d-be2d83c88450)
 
 ### 메뉴 관리
-![image](https://github.com/hojin535/ufo-front/assets/123153695/6485d146-8904-4438-b398-f98420cfeda8)
+![관리자메뉴 등록](https://github.com/user-attachments/assets/d0811b3f-e7db-4a60-86a2-e50a5f96137e)
+![관리자 메뉴 추가](https://github.com/user-attachments/assets/be28da96-9cc3-45f5-b7a1-237394d3c7ee)
 
 ### 매출 관리
-![image](https://github.com/hojin535/ufo-front/assets/123153695/35e04fa9-efb6-467e-8b86-2e0272ff30f7)
+![관리자 매출 로그](https://github.com/user-attachments/assets/2908d0ab-bb53-441d-aea1-c9bb5556ba9a)
 
 ### 테이블 QR 생성
-![image](https://github.com/hojin535/ufo-front/assets/123153695/e23a0281-1738-4ceb-9d96-090670315b39)
+![QR 생성기1](https://github.com/user-attachments/assets/01478eb4-5d75-403d-9395-a5a252e9e8c6)
+![QR 생성기2](https://github.com/user-attachments/assets/125f626b-e912-40b8-8a70-bd87566b5a0b)
 
 ### QR 생성시
-![image](https://github.com/hojin535/ufo-front/assets/123153695/c2b0249a-d61e-4e68-947a-ce2133fe346d)
-![image](https://github.com/hojin535/ufo-front/assets/123153695/b61cf49a-7e32-4d1d-8f06-bb76a7bbca1b)
-### 정보 수정
-![image](https://github.com/hojin535/ufo-front/assets/123153695/8a74065a-b920-4571-b84e-6c3f8dc9ec2b)
-
+![QR 생성 과정](https://github.com/user-attachments/assets/d321c73c-86fa-411e-8103-dd9969190355)
+![QR생성과정2](https://github.com/user-attachments/assets/72d1f787-5c7f-4e34-8cd3-d4e95719a828)
+![QR 생성과정 3](https://github.com/user-attachments/assets/78166b38-fc7c-4462-a685-df3581520af3)
+![QR 예시](https://github.com/user-attachments/assets/b382eeb0-c944-4141-baf6-2e509b57bd0a)
 
 ## 관리자 모바일
-
-
 ### 모바일 접속 메인
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/9932feba-c956-44e3-a7c9-a9126c275b68"  width="200" height="400"/>
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/07cc4222-401e-4041-819b-a920cb7c9dc5"  width="200" height="400"/>
-
+<img src="https://github.com/user-attachments/assets/e99748b8-7f8f-44d2-91e2-2c50635c6136" width="200" height="400">
 
 ### 주방 디스플레이
-![image](https://github.com/hojin535/ufo-front/assets/123153695/8dcceb14-45a6-48bf-89eb-d0b564b21efa)
+<img src="https://github.com/user-attachments/assets/aafe74f6-c08a-46f7-8a86-21833a39b6f3" width="200" height="400">
 
 ### 모바일 매출 확인
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/b1edc938-9ee7-4edd-af30-fcff7db1b722"  width="200" height="400"/>
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/97e366fa-201f-4f11-9117-8c4550f51daa"  width="200" height="400"/>
-
-
-### 정보 수정 모바일
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/906115c7-9cc5-4194-9488-938e8e67477b"  width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/7714b087-6b3d-457b-a212-47f180b9d383" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/27a74529-45d8-4abd-aed6-2843747c08a3" width="200" height="400">
 
 ## 사용자화면
-
 ### 메인화면
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/f03bef19-8518-43f2-8ee8-d777de8bafa0"  width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/65ed96ac-dbb9-46b1-b4d6-3973ac860062" width="200" height="400">
 
 ### 주문화면
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/5f938603-fb63-41fc-b6e7-cb2a4709bd6f"  width="200" height="400"/>
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/299858f1-63d9-45da-8a03-9653b667e06c"  width="200" height="400"/>
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/8f34bcc1-7e88-4087-b1d9-bdc2da8cd951"  width="200" height="400"/>
-
+<img src="https://github.com/user-attachments/assets/cff2d431-0b9c-4406-a45a-295a6a3a376a" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/eda8256d-f2a8-41b1-80a2-b028cabfbfb0" width="200" height="400">
 
 ### 대기 순서 디스플레이
-
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/b4f06a71-2e07-4474-91e9-95d77bfcb8b4"  width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/0c4a1ff8-5748-4bfa-9590-4fb716f0d604" width="200" height="400">
 
 ### 상세 주문 내역 확인
-<img src="https://github.com/hojin535/ufo-front/assets/123153695/c258047f-9c2f-4b60-acc9-bd82394de1a9"  width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/ee5111ca-3385-4ae9-b0ec-134578a3bc2c" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/bb1591d1-d374-48ba-a8ec-d91029a33e84" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/0c340252-f6cb-4277-983c-0bf83480d519" width="200" height="400">
 
-## 사용 기술
-### 공통
+# 사용 기술
+## 공통
 - Visual Studio Code: 통합 개발 환경(IDE)
 - Git, GitHub: 코드 관리 및 협업
 
-### Frontend
-개발 도구 및 IDE
+## Frontend
+### 개발 도구 및 IDE
 - Vite(v5.2.0): 개발 서버 및 번들러
 
-패키지 매니저
+### 패키지 매니저
 - npm(v20.11.1): JavaScript 패키지 관리자
 
-기타 도구
+### 기타 도구
 - ESLint: JavaScript 코드 스타일 검사 도구
 - Prettier: 코드 포맷터
 
-### Backend
-패키지 매니저
+## Backend
+### 패키지 매니저
 - npm: Node.js 패키지 관리자
 
-런타임 환경
+### 런타임 환경
 - Node.js: JavaScript 런타임 환경
 
-### DB
-데이터베이스 관리 도구
-- MySQL Workbench: 데이터베이스 관리 도구.
+## DB
+### 데이터베이스 관리 도구
+- MySQL Workbench: 데이터베이스 관리 도구
 
-
-
-## 사용 라이브러리
-### 프론트엔드 관련
+# 사용 라이브러리
+## 프론트엔드 관련
 - React(v18.2.66): 프론트엔드 개발을 위한 라이브러리
 - Material-UI(v5.15.20): UI 스타일링 컴포넌트 라이브러리
 - Vite(v5.2.0): 개발 서버 및 번들러
@@ -149,31 +133,24 @@ S - System<br/>
 - react-qr-code(v2.0.13): QR 코드 생성
 - react-device-detect(v2.2.3): 사용자 기기 인식
 
-### 백엔드 관련
-- Node.js 패키지:
+## 백엔드 관련
+- Node.js 패키지
 - Express.js: 웹 서버 구현을 위한 라이브러리
 - Socket.IO: 실시간 양방향 통신
 - axios(v1.7.2): 서버 통신용 라이브러리
 
-### 보안 및 코드 품질 도구
+## 보안 및 코드 품질 도구
 - ESLint: JavaScript 코드 스타일 검사 도구
-- Prettier: 코드 포맷터.
+- Prettier: 코드 포맷터
 
-## 시작 가이드
-설치 필요
+# 시작 가이드
+## 설치 필요
 - Node.js 20.11.1
 - Npm 10.5.0
 
-## 시작 
+## 시작
+
 ```
 npm install
 npm run dev
 ```
-
-
-
-
-
-
-
-
