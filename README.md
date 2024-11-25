@@ -47,55 +47,55 @@ S - System<br/>
 
 ## 관리자 데스크톱
 ### 로그인 / 회원가입 / 개인정보 수정
-![관리자로그인](https://github.com/user-attachments/assets/078bffce-11ad-487c-b11c-f350ebab7a13)
-![관리자 개인정보 수정](https://github.com/user-attachments/assets/9d2f5282-1995-456a-8f0b-c2271188be0b)
+![관리자로그인](./image/관리자로그인.png)
+![관리자 개인정보 수정](./image/관리자정보수정.png)
 
 ### 주문 결제 관리
-![관리자 메인 메뉴](https://github.com/user-attachments/assets/f5206947-a19e-467e-9b0d-be2d83c88450)
+![관리자 메인 메뉴](./image/관리자메인메뉴.png)
 
 ### 메뉴 관리
-![관리자메뉴 등록](https://github.com/user-attachments/assets/d0811b3f-e7db-4a60-86a2-e50a5f96137e)
-![관리자 메뉴 추가](https://github.com/user-attachments/assets/be28da96-9cc3-45f5-b7a1-237394d3c7ee)
+![관리자메뉴 등록](./image/관리자메뉴등록.png)
+![관리자 메뉴 추가](./image/관리자메뉴추가.png)
 
 ### 매출 관리
-![관리자 매출 로그](https://github.com/user-attachments/assets/2908d0ab-bb53-441d-aea1-c9bb5556ba9a)
+![관리자 매출 로그](./image/관리자매출로그.png)
 
 ### 테이블 QR 생성
-![QR 생성기1](https://github.com/user-attachments/assets/01478eb4-5d75-403d-9395-a5a252e9e8c6)
-![QR 생성기2](https://github.com/user-attachments/assets/125f626b-e912-40b8-8a70-bd87566b5a0b)
+![QR 생성기1](./image/QR생성기1.png)
+![QR 생성기2](./image/QR생성기2.png)
 
 ### QR 생성시
-![QR 생성 과정](https://github.com/user-attachments/assets/d321c73c-86fa-411e-8103-dd9969190355)
-![QR생성과정2](https://github.com/user-attachments/assets/72d1f787-5c7f-4e34-8cd3-d4e95719a828)
-![QR 생성과정 3](https://github.com/user-attachments/assets/78166b38-fc7c-4462-a685-df3581520af3)
-![QR 예시](https://github.com/user-attachments/assets/b382eeb0-c944-4141-baf6-2e509b57bd0a)
+![QR 생성 과정](./image/QR생성과정.png)
+![QR생성과정2](./image/QR생성과정2.png)
+![QR 생성과정 3](./image/QR생성과정3.png)
+![QR 예시](./image/QR예시.png)
 
 ## 관리자 모바일
 ### 모바일 접속 메인
-<img src="https://github.com/user-attachments/assets/e99748b8-7f8f-44d2-91e2-2c50635c6136" width="200" height="400">
+<img src="./image/모바일로그인.png" width="200" height="400">
 
 ### 주방 디스플레이
-<img src="https://github.com/user-attachments/assets/aafe74f6-c08a-46f7-8a86-21833a39b6f3" width="200" height="400">
+<img src="./image/주방디스플레이.png" width="200" height="400">
 
 ### 모바일 매출 확인
-<img src="https://github.com/user-attachments/assets/7714b087-6b3d-457b-a212-47f180b9d383" width="200" height="400">
-<img src="https://github.com/user-attachments/assets/27a74529-45d8-4abd-aed6-2843747c08a3" width="200" height="400">
+<img src="./image/관리자매출확인1.png" width="200" height="400">
+<img src="./image/관리자매출확인2.png" width="200" height="400">
 
 ## 사용자화면
 ### 메인화면
-<img src="https://github.com/user-attachments/assets/65ed96ac-dbb9-46b1-b4d6-3973ac860062" width="200" height="400">
+<img src="./image/고객메인화면.png" width="200" height="400">
 
 ### 주문화면
-<img src="https://github.com/user-attachments/assets/cff2d431-0b9c-4406-a45a-295a6a3a376a" width="200" height="400">
-<img src="https://github.com/user-attachments/assets/eda8256d-f2a8-41b1-80a2-b028cabfbfb0" width="200" height="400">
+<img src="./image/고객주문화면1.png" width="200" height="400">
+<img src="./image/고객주문화면2.png" width="200" height="400">
 
 ### 대기 순서 디스플레이
-<img src="https://github.com/user-attachments/assets/0c4a1ff8-5748-4bfa-9590-4fb716f0d604" width="200" height="400">
+<img src="./image/고객대기화면.png" width="200" height="400">
 
 ### 상세 주문 내역 확인
-<img src="https://github.com/user-attachments/assets/ee5111ca-3385-4ae9-b0ec-134578a3bc2c" width="200" height="400">
-<img src="https://github.com/user-attachments/assets/bb1591d1-d374-48ba-a8ec-d91029a33e84" width="200" height="400">
-<img src="https://github.com/user-attachments/assets/0c340252-f6cb-4277-983c-0bf83480d519" width="200" height="400">
+<img src="./image/고객주문확인1.png" width="200" height="400">
+<img src="./image/고객주문완료.png" width="200" height="400">
+<img src="./image/고객명세서.png" width="200" height="400">
 
 # 사용 기술
 ## 공통
